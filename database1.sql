@@ -1,3 +1,4 @@
+
 CREATE DATABASE zaposlenici;
 
 CREATE TABLE zaposlenici(
